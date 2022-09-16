@@ -4,16 +4,11 @@ banner_y: 0.6
 banner_lock: true
 title:  0.0 Overview
 created: 2022-07-13
-tags: IntroToIt
+tags: C182-IntroToIt
 Class: C182-Intro_to_IT
-Anki: None
-Unit: 0
-Module: 0
-
 ---
 
-# 0.0 Overview
-## Topics and Pacing
+# Topics and Pacing
 | Week | Lesson                                                                 | 
 | ---- | ---------------------------------------------------------------------- |
 | 1    | - Unit 1 - Welcome <br /> - Unit 2 -Intro to IT                        |
@@ -25,8 +20,8 @@ Module: 0
 | 7    | - Take Pre-Assessment <br /> - Review and Prepare for Final Assessment |
 | 8    | - Complete Final Assessment                                            |
 
-### Course Planning
-### areas to study
+## Course Planning
+## areas to study
 #### High
 1. Ethics in IT
 ---
@@ -42,16 +37,10 @@ Module: 0
 8. Scripting and Programing
 9. Basics and history of computing
 
-## Resources
+# Resources
 ![[printable flashcards.pdf]]
 ![[printable questions flashcards.pdf]]
 
-## Key take away
+# Key take away
 ## Meta Lessons
-- When you finish a course, export your notes and cards, then upload them to the WGU bulletin boards.
-### Obsidian
-- The naming scheme for new files is by module. e.g. `2.6 Computer systems` is inside the course folder, and is unit 2, module 6, and the module name.
-- Generate as many links within obsidian as possible.
-### Anki
-- the tagging scheme should be `.` delineated. e.g. `C182.3.5` for C182, unit 3, module 5.
-	- Tagging should also include the source of a card IF it is outside normal course content.
+- When you finish a course, export your notes and cards, then upload them to GitHub.

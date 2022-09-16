@@ -4,7 +4,7 @@ banner_y: 0.6
 banner_lock: true
 title:  Assesment
 created: 2022-07-16
-tags: IntroToIt
+tags: C182-IntroToIt
 Class: C182-Intro_to_IT
 Anki: True
 Unit: All
